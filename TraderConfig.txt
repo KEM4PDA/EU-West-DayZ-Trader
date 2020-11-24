@@ -183,31 +183,31 @@
 		BearTrap,				*,		50,		30
 	
 	<Category> Hardware Supplies
-		Paper,					*,		1,		0
-		Pen_Blue,				*,		2,		1
-		Rope,					*,		4,		1
+		Paper,				*,		1,		0
+		Pen_Blue,			*,		2,		1
+		Rope,				*,		4,		1
 		TannedLeather,			*,		4,		1
 		AntiPestsSpray,			*,		8,		4
-		MetalWire,				*,		15,		6
-		EpoxyPutty,				*,		15,		6
-		DuctTape,				*,		20,		8
-		XmasLights,				*,		25,		10
+		MetalWire,			*,		15,		6
+		EpoxyPutty,			*,		15,		6
+		DuctTape,			*,		20,		8
+		XmasLights,			*,		25,		10
 		HandcuffKeys,			*,		35,		12
-		Handcuffs,				*,		50,		15
-		Netting,				1,		50,		10
-		BurlapSack,				*,		50,		10
+		Handcuffs,			*,		50,		15
+		Netting,			1,		50,		10
+		BurlapSack,			*,		50,		10
 		WoodenPlank,			10,		50,		15
-		MetalPlate,				*,		60,		18
+		MetalPlate,			*,		60,		18
 		SmallProtectorCase,		*,		70,		30
-		AmmoBox,				*,		80,		35
+		AmmoBox,			*,		80,		35
 		SmallGasCanister,		*,		80,		35
 		MediumGasCanister,		*,		100,	40
 		LargeGasCanister,		*,		200,	70
 		CanisterGasoline,		*,		300,	80
-		NailBox,				*,		300,	120
-		BarbedWire,				*,		450,	200
-		Camonet,				*,		600,	250
-		HescoBox,				*,		650,	250
+		NailBox,			*,		300,	120
+		BarbedWire,			*,		450,	200
+		Camonet,			*,		600,	250
+		HescoBox,			*,		650,	250
 		CombinationLock,		*,		700,	300
 		CombinationLock4,		*,		900,	400
 		BarrelHoles_Blue,		*,		800,	300
@@ -216,100 +216,46 @@
 		BarrelHoles_Yellow,		*,		800,	300
 		Barrel_Blue,			M,		1500,	350
 		Barrel_Green,			M,		1500,	350
-		Barrel_Red,				M,		1500,	350
+		Barrel_Red,			M,		1500,	350
 		Barrel_Yellow,			M,		1500,	350
-		SeaChest,				*,		2000,	400
+		SeaChest,			*,		2000,	400
 		PowerGenerator,			*,		3000,	1000
-		MediumTent,				*,		3000,	500		
-		CarTent,				*,		5000,	700
-		LargeTent,				*,		7000,	1200
+		MediumTent,			*,		3000,	500		
+		CarTent,			*,		5000,	700
+		LargeTent,			*,		7000,	1200
 	
 	<Category> Seeds & Lime
 		TomatoSeedsPack,		*,		4, 		1
 		PepperSeedsPack,		*,		4, 		1
 		ZucchiniSeedsPack,		*,		6, 		2
 		PumpkinSeedsPack,		*,		10, 	3
-		GardenLime,				*,		20,		7
+		GardenLime,			*,		20,		7
 		
 	<Category> Fluffy Pets <3
-		Bear_Beige,				*,		5,		1
-		Bear_Dark,				*,		5,		1
-		Bear_Pink,				*,		5,		1
-		Bear_White,				*,		5,		1
+		Bear_Beige,				*,		100,		1
+		Bear_Dark,				*,		200,		1
+		Bear_Pink,				*,		300,		1
+		Bear_White,				*,		400,		1
 
 		
 <Trader> Weapon Trader
-	<Category> Melee	
-		BrassKnuckles_Shiny,	W,		15,		6
-		StunBaton,				W,		15,		9
-		Pipe,					W,		25,		10
-		CattleProd,				W,		25,		15
-		BaseballBat,			W,		35,		17
-		NailedBaseballBat,		W,		45,		20
-		
-	<Category> Sidearms
-		MakarovIJ70,			W,		100,	50
-		CZ75,					W,		135,	70
-		FNX45,					W,		175,	90
-		Glock19,				W,		300,	130
-		MKII,					W,		320,	160
-		Colt1911,				W,		340,	180
-		Engraved1911,			W,		340,	180
-		
 	<Category> Rifles
-		Izh18,					W,		350,	175
-		Mosin9130,				W,		400,	200
-		CZ527,					W,		500,	250
-		Winchester70,			W,		500,	250
-		SKS,					W,		600,	300
-		
-	<Category> Shotguns
-		Mp133Shotgun,			W,		500,	250
-		Izh43Shotgun,			W,		900,	400
-		Saiga,					W,		1500,	600
-		
-	<Category> Submachine Guns
-		CZ61,					W,		700,	300
-		UMP45,					W,		800,	350
-		MP5K,					W,		1000,	450	
-		AKS74U,					W,		1100,	600
-		
-	<Category> Assault Rifles
-		FAL,					W,		1000,	450
-		AKM,					W,		1500,	750
-		AK101,					W,		1500,	750
-		AK74,					W,		1600,	750
-		M4A1,					W,		1500,	750
-		
-	//<Category> Light Machine Guns
-		
-	<Category> Sniper Rifles
-		VSS,					W,		1600,	960
-		B95,					W,		1700,	1100
-		SVD,					W,		2000,	1200
-		
-	<Category> Grenades
-		RGD5Grenade,			1,		300,	100
-		M67Grenade,				1,		300,	100
-		M18SmokeGrenade_Red,	1,		300,	100
-		M18SmokeGrenade_Green,	1,		300,	100
-		M18SmokeGrenade_Yellow,	1,		300,	100
-		M18SmokeGrenade_Purple,	1,		300,	100
-		M18SmokeGrenade_White,	1,		300,	100
-		RDG2SmokeGrenade_Black,	1,		300,	100
-		RDG2SmokeGrenade_White,	1,		300,	100
-		FlashGrenade,			1,		300,	100
+		Izh18,					W,		3500,	175
+		Mosin9130,				W,		4000,	200
+		CZ527,					W,		5000,	250
+		Winchester70,				W,		5000,	250
+		SKS,					W,		6000,	300
 		
 		
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		Ammo_380,				1,		1,		-1
-		Ammo_9x19,				1,		1,		-1
-		Ammo_22,				1,		1,		-1
-		Ammo_45ACP,				1,		1,		-1
+		Ammo_380,			1,		1,		-1
+		Ammo_9x19,			1,		1,		-1
+		Ammo_22,			1,		1,		-1
+		Ammo_45ACP,			1,		1,		-1
 		Ammo_12gaPellets,		1,		3,		1
 		Ammo_12gaSlug,			1,		4,		2
-		Ammo_9x39,				1,		4,		2
+		Ammo_9x39,			1,		4,		2
 		Ammo_9x39AP,			1,		5,		3
 		Ammo_308Win,			1,		5,		3
 		Ammo_545x39,			1,		5,		3
@@ -326,112 +272,24 @@
 		// Originally the Ammoboxes buying Price is 20% less than
 		// buying single Ammo. The Selling Price is the same as
 		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,		*,		28,		-1
-		AmmoBox_9x19_25rnd,		*,		20,		-1
-		AmmoBox_45ACP_25rnd,	*,		20,		-1
-		AmmoBox_22_50Rnd,		*,		60,		20
-		AmmoBox_00buck_10rnd,	*,		24,		10
-		AmmoBox_12gaSlug_10Rnd,	*,		32,		20
-		AmmoBox_9x39_20Rnd,		*,		32,		20
-		AmmoBox_9x39AP_20Rnd,	*,		80,		60
-		AmmoBox_308Win_20Rnd,	*,		80,		60
-		AmmoBox_545x39_20Rnd,	*,		80,		60
-		AmmoBox_556x45_20Rnd,	*,		80,		60
-		AmmoBox_762x39_20Rnd,	*,		80,		60
-		AmmoBox_762x54_20Rnd,	*,		200,	120		
+		AmmoBox_380_35rnd,	*,		280,		-1
+		AmmoBox_9x19_25rnd,	*,		200,		-1
+		AmmoBox_45ACP_25rnd,	*,		200,		-1
+		AmmoBox_22_50Rnd,	*,		150,		20
+		AmmoBox_00buck_10rnd,	*,		240,		10
+		AmmoBox_12gaSlug_10Rnd,	*,		320,		20
+		AmmoBox_9x39_20Rnd,	*,		320,		20
+		AmmoBox_9x39AP_20Rnd,	*,		300,		60
+		AmmoBox_308Win_20Rnd,	*,		150,		60
+		AmmoBox_545x39_20Rnd,	*,		200,		60
+		AmmoBox_556x45_20Rnd,	*,		200,		60
+		AmmoBox_762x39_20Rnd,	*,		200,		60
+		AmmoBox_762x54_20Rnd,	*,		400,	120		
 		AmmoBox_308WinTracer_20Rnd,		*,		160,	80
 		AmmoBox_545x39Tracer_20Rnd,		*,		160, 	80
 		AmmoBox_556x45Tracer_20Rnd,		*,		160,	80
 		AmmoBox_762x39Tracer_20Rnd,		*,		160,	80
 		AmmoBox_762x54Tracer_20Rnd,		*,		400,	200
-		
-	<Category> Magazines
-		Mag_IJ70_8Rnd,			M,		30,		15
-		Mag_CZ75_15Rnd,			M,		40,		20
-		Mag_Glock_15Rnd,		M,		40,		20
-		Mag_MKII_10Rnd,			M,		40,		20
-		Mag_1911_7Rnd,			M,		40,		20
-		Mag_FNX45_15Rnd,		M,		40,		20
-		Mag_CZ527_5rnd,			M,		60,		30
-		Mag_CZ61_20Rnd,			M,		100,	50
-		Mag_UMP_25Rnd,			M,		150,	75
-		Mag_MP5_30Rnd,			M,		200,	100
-		Mag_FAL_20Rnd,			M,		100,	50
-		Mag_Saiga_5Rnd,			M,		100,	50
-		Mag_Saiga_8Rnd,			M,		220,	60
-		Mag_Saiga_Drum20Rnd,	M,		480,	110
-		Mag_AKM_30Rnd,			M,		220,	110
-		Mag_AKM_Palm30Rnd,		M,		220,	110
-		Mag_AKM_Drum75Rnd,		M,		480,	220
-		Mag_AK101_30Rnd,		M,		220,	110
-		Mag_AK74_30Rnd,			M,		220,	110
-		Mag_STANAG_30Rnd,		M,		220,	110
-		Mag_STANAGCoupled_30Rnd,M,		480,	220
-		Mag_CMAG_10Rnd,			M,		120,	60
-		Mag_CMAG_20Rnd,			M,		180,	80
-		Mag_CMAG_30Rnd,			M,		220,	110
-		Mag_CMAG_40Rnd,			M,		300,	150
-		Mag_VSS_10Rnd,			M,		220,	110
-		Mag_SVD_10Rnd,			M,		250,	125
-		Mag_308WinSnaploader_2Rnd,		M,		250,	125
-		
-	<Category> Handguards
-		MP5_PlasticHndgrd,		*,		100,	50
-		MP5_RailHndgrd,			*,		150,	75
-		AK74_Hndgrd,			*,		150,	75
-		AK_WoodHndgrd,			*,		200,	100
-		AK_RailHndgrd,			*,		200,	100
-		AK_PlasticHndgrd,		*,		200,	100
-		M4_PlasticHndgrd,		*,		150,	75
-		M4_RISHndgrd,			*,		200,	100
-		M4_MPHndgrd,			*,		200,	100
-
-	<Category> Buttstocks
-		MP5k_StockBttstck,		*,		100,	50
-		Fal_OeBttstck,			*,		100,	50
-		Fal_FoldingBttstck,		*,		150,	75
-		Saiga_Bttstck,			*,		150,	75
-		AKS74U_Bttstck,			*,		150,	75
-		AK74_WoodBttstck,		*,		150,	75
-		AK_PlasticBttstck,		*,		100,	50
-		AK_WoodBttstck,			*,		150,	75
-		AK_FoldingBttstck,		*,		250,	125
-		M4_OEBttstck,			*,		150,	75
-		M4_CQBBttstck,			*,		150,	75
-		M4_MPBttstck,			*,		150,	75
-	
-	<Category> Optics
-		M4_CarryHandleOptic,	*,		150,	60
-		BUISOptic,				*,		150,	60
-		FNP45_MRDSOptic,		*,		250,	100
-		ACOGOptic,				*,		300,	120
-		M68Optic,				*,		500,	200
-		M4_T3NRDSOptic,			*,		500,	200
-		KobraOptic,				*,		600,	250
-		KashtanOptic,			*,		700,	300
-		PUScopeOptic,			*,		900,	500
-		HuntingOptic,			*,		1000,	550
-		PSO1Optic,				*,		1100,	600	
-		PSO11Optic,				*,		1400,	840
-		KazuarOptic,			*,		2200,	1400
-	
-	<Category> Supressors
-		PistolSuppressor,		*,		150,	75
-		AK_Suppressor,			*,		250,	125
-		M4_Suppressor,			*,		250,	125
-		
-	<Category> Compensators
-		Mosin_Compensator,		*,		150,	75
-		MP5_Compensator,		*,		200,	100
-
-	<Category> Bayonets
-		Mosin_Bayonet,			*,		100,	60
-		M9A1_Bayonet,			*,		150,	75
-		AK_Bayonet,				*,		150,	75
-		SKS_Bayonet,			*,		100,	60
-		
-	<Category> Flashlights
-		Universallight,			*,		120,	60
 	
 	
 <Trader> Clothing Trader
@@ -1023,163 +881,18 @@
 	
 <Trader> Vehicles Trader
 	<Category> Vehicles
-		OffroadHatchback,		V,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
-		OffroadHatchback_Blue,	V,		14000,	8000
-		OffroadHatchback_White,	V,		14000,	8000
-		Hatchback_02,			V,		16000,	9600
-		Hatchback_02_Blue,		V,		16000,	9600
-		Hatchback_02_Black,		V,		16000,	9600
+		OffroadHatchback,		V,		140000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
+		OffroadHatchback_Blue,	V,		140000,	8000
+		OffroadHatchback_White,	V,		140000,	8000
+		Hatchback_02,			V,		160000,	9600
+		Hatchback_02_Blue,		V,		160000,	9600
+		Hatchback_02_Black,		V,		160000,	9600
 		Sedan_02,				V,		18000,	10200
-		Sedan_02_Red,			V,		18000,	10200
-		Sedan_02_Grey,			V,		18000,	10200
-		CivilianSedan,			V,		20000,	11000
-		CivilianSedan_Wine,		V,		20000,	11000
-		CivilianSedan_Black,	V,		20000,	11000
-	
-	<Category> Vehicle Parts
-		HeadlightH7_Box,		*,		30,		15
-		SparkPlug,				*,		60,		40
-		EngineOil,				*,		70,		40
-		CarBattery,				*,		100,	50
-		TruckBattery,			*,		180,	100
-		CarRadiator,			*,		200,	100
-		TireRepairKit,			*,		220,	100
-		HatchbackHood,						*,		300,	100
-		HatchbackHood_Blue,					*,		300,	100
-		HatchbackHood_White,				*,		300,	100
-		HatchbackHood_GreenRust,			*,		300,	100
-		HatchbackHood_BlueRust,				*,		300,	100
-		HatchbackHood_WhiteRust,			*,		300,	100
-		HatchbackTrunk,						*,		380,	130
-		HatchbackTrunk_Blue,				*,		380,	130
-		HatchbackTrunk_White,				*,		380,	130
-		HatchbackTrunk_GreenRust,			*,		380,	130
-		HatchbackTrunk_BlueRust,			*,		380,	130
-		HatchbackTrunk_WhiteRust,			*,		380,	130
-		HatchbackDoors_Driver,				*,		450,	160
-		HatchbackDoors_Driver_Blue,			*,		450,	160
-		HatchbackDoors_Driver_White,		*,		450,	160
-		HatchbackDoors_Driver_GreenRust,	*,		450,	160
-		HatchbackDoors_Driver_BlueRust,		*,		450,	160
-		HatchbackDoors_Driver_WhiteRust,	*,		450,	160
-		HatchbackDoors_CoDriver,			*,		450,	160
-		HatchbackDoors_CoDriver_Blue,		*,		450,	160
-		HatchbackDoors_CoDriver_White,		*,		450,	160
-		HatchbackDoors_CoDriver_GreenRust,	*,		450,	160
-		HatchbackDoors_CoDriver_BlueRust,	*,		450,	160
-		HatchbackDoors_CoDriver_WhiteRust,	*,		450,	160
-		HatchbackWheel,						*,		500,	100
-		Hatchback_02_Hood,				*,		300,	100
-		Hatchback_02_Hood_Black,		*,		300,	100
-		Hatchback_02_Hood_Blue,			*,		300,	100
-		Hatchback_02_Hood_RedRust,		*,		300,	100
-		Hatchback_02_Hood_BlackRust,	*,		300,	100
-		Hatchback_02_Hood_BlueRust,		*,		300,	100
-		Hatchback_02_Trunk,				*,		380,	130
-		Hatchback_02_Trunk_Black,		*,		380,	130
-		Hatchback_02_Trunk_Blue,		*,		380,	130
-		Hatchback_02_Trunk_RedRust,		*,		380,	130
-		Hatchback_02_Trunk_BlackRust,	*,		380,	130
-		Hatchback_02_Trunk_BlueRust,	*,		380,	130
-		Hatchback_02_Door_1_1,			*,		450,	160
-		Hatchback_02_Door_1_1_Black,	*,		450,	160
-		Hatchback_02_Door_1_1_Blue,		*,		450,	160
-		Hatchback_02_Door_1_1_RedRust,	*,		450,	160
-		Hatchback_02_Door_1_1_BlackRust,*,		450,	160
-		Hatchback_02_Door_1_1_BlueRust,	*,		450,	160
-		Hatchback_02_Door_1_2,			*,		450,	160
-		Hatchback_02_Door_1_2_Black,	*,		450,	160
-		Hatchback_02_Door_1_2_Blue,		*,		450,	160
-		Hatchback_02_Door_1_2_RedRust,	*,		450,	160
-		Hatchback_02_Door_1_2_BlackRust,*,		450,	160
-		Hatchback_02_Door_1_2_BlueRust,	*,		450,	160
-		Hatchback_02_Door_2_1,			*,		450,	160
-		Hatchback_02_Door_2_1_Black,	*,		450,	160
-		Hatchback_02_Door_2_1_Blue,		*,		450,	160
-		Hatchback_02_Door_2_1_RedRust,	*,		450,	160
-		Hatchback_02_Door_2_1_BlackRust,*,		450,	160
-		Hatchback_02_Door_2_1_BlueRust,	*,		450,	160
-		Hatchback_02_Door_2_2,			*,		450,	160
-		Hatchback_02_Door_2_2_Black,	*,		450,	160
-		Hatchback_02_Door_2_2_Blue,		*,		450,	160
-		Hatchback_02_Door_2_2_RedRust,	*,		450,	160
-		Hatchback_02_Door_2_2_BlackRust,*,		450,	160
-		Hatchback_02_Door_2_2_BlueRust,	*,		450,	160
-		Hatchback_02_Wheel,				*,		500,	100
-		Sedan_02_Hood,					*,		300,	100
-		Sedan_02_Hood_Red,				*,		300,	100
-		Sedan_02_Hood_Grey,				*,		300,	100
-		Sedan_02_Hood_YellowRust,		*,		300,	100
-		Sedan_02_Hood_RedRust,			*,		300,	100
-		Sedan_02_Hood_GreyRust,			*,		300,	100
-		Sedan_02_Trunk,					*,		450,	150
-		Sedan_02_Trunk_Red,				*,		450,	150
-		Sedan_02_Trunk_Grey,			*,		450,	150
-		Sedan_02_Trunk_YellowRust,		*,		450,	150
-		Sedan_02_Trunk_RedRust,			*,		450,	150
-		Sedan_02_Trunk_GreyRust,		*,		450,	150
-		Sedan_02_Door_1_1,				*,		450,	160
-		Sedan_02_Door_1_1_Red,			*,		450,	160
-		Sedan_02_Door_1_1_Grey,			*,		450,	160
-		Sedan_02_Door_1_1_YellowRust,	*,		450,	160
-		Sedan_02_Door_1_1_RedRust,		*,		450,	160
-		Sedan_02_Door_1_1_GreyRust,		*,		450,	160
-		Sedan_02_Door_1_2,				*,		450,	160
-		Sedan_02_Door_1_2_Red,			*,		450,	160
-		Sedan_02_Door_1_2_Grey,			*,		450,	160
-		Sedan_02_Door_1_2_YellowRust,	*,		450,	160
-		Sedan_02_Door_1_2_RedRust,		*,		450,	160
-		Sedan_02_Door_1_2_GreyRust,		*,		450,	160
-		Sedan_02_Door_2_1,				*,		450,	160
-		Sedan_02_Door_2_1_Red,			*,		450,	160
-		Sedan_02_Door_2_1_Grey,			*,		450,	160
-		Sedan_02_Door_2_1_YellowRust,	*,		450,	160
-		Sedan_02_Door_2_1_RedRust,		*,		450,	160
-		Sedan_02_Door_2_1_GreyRust,		*,		450,	160
-		Sedan_02_Door_2_2,				*,		450,	160  
-		Sedan_02_Door_2_2_Red,			*,		450,	160  
-		Sedan_02_Door_2_2_Grey,			*,		450,	160  
-		Sedan_02_Door_2_2_YellowRust,	*,		450,	160  
-		Sedan_02_Door_2_2_RedRust,		*,		450,	160  
-		Sedan_02_Door_2_2_GreyRust,		*,		450,	160  
-		Sedan_02_Wheel,					*,		500,	100
-		CivSedanHood,						*,		400,	140
-		CivSedanHood_Wine,					*,		400,	140
-		CivSedanHood_Black,					*,		400,	140
-		CivSedanHood_WhiteRust,				*,		400,	140
-		CivSedanHood_WineRust,				*,		400,	140
-		CivSedanHood_BlackRust,				*,		400,	140
-		CivSedanTrunk,						*,		450,	150
-		CivSedanTrunk_Wine,					*,		450,	150
-		CivSedanTrunk_Black,				*,		450,	150
-		CivSedanTrunk_WhiteRust,			*,		450,	150
-		CivSedanTrunk_WineRust,				*,		450,	150
-		CivSedanTrunk_BlackRust,			*,		450,	150
-		CivSedanDoors_Driver,				*,		500,	180
-		CivSedanDoors_Driver_Wine,			*,		500,	180
-		CivSedanDoors_Driver_Black,			*,		500,	180
-		CivSedanDoors_Driver_WhiteRust,		*,		500,	180
-		CivSedanDoors_Driver_WineRust,		*,		500,	180
-		CivSedanDoors_Driver_BlackRust,		*,		500,	180
-		CivSedanDoors_CoDriver,				*,		500,	180
-		CivSedanDoors_CoDriver_Wine,		*,		500,	180
-		CivSedanDoors_CoDriver_Black,		*,		500,	180
-		CivSedanDoors_CoDriver_WhiteRust,	*,		500,	180
-		CivSedanDoors_CoDriver_WineRust,	*,		500,	180
-		CivSedanDoors_CoDriver_BlackRust,	*,		500,	180
-		CivSedanDoors_BackLeft,				*,		500,	180
-		CivSedanDoors_BackLeft_Wine,		*,		500,	180
-		CivSedanDoors_BackLeft_Black,		*,		500,	180
-		CivSedanDoors_BackLeft_WhiteRust,	*,		500,	180
-		CivSedanDoors_BackLeft_WineRust,	*,		500,	180
-		CivSedanDoors_BackLeft_BlackRust,	*,		500,	180
-		CivSedanDoors_BackRight,			*,		500,	180
-		CivSedanDoors_BackRight_Wine,		*,		500,	180
-		CivSedanDoors_BackRight_Black,		*,		500,	180
-		CivSedanDoors_BackRight_WhiteRust,	*,		500,	180
-		CivSedanDoors_BackRight_WineRust,	*,		500,	180
-		CivSedanDoors_BackRight_BlackRust,	*,		500,	180
-		CivSedanWheel,						*,		600,	120
+		Sedan_02_Red,			V,		180000,	10200
+		Sedan_02_Grey,			V,		180000,	10200
+		CivilianSedan,			V,		200000,	11000
+		CivilianSedan_Wine,		V,		200000,	11000
+		CivilianSedan_Black,	V,		200000,	11000
 		
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
